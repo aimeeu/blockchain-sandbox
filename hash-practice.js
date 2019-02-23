@@ -1,6 +1,7 @@
 var SHA256 = require("crypto-js/sha256");
 
-const data1 = "Blockchain Rock!";
+//const data1 = "Blockchain Rock!";
+const data1 = 'Test Block';
 const dataObject = {
     id: 1,
     body: "With Object Works too",
