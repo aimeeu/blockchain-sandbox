@@ -13,3 +13,5 @@ const signature_3 = 'ICcppPF+jJ+9NlvssL+qfcZP9VRbcBq8Drpw91vo+Z5hHkBuLTy+9q70u+R
 console.log('sig1 is valid', (bitcoinMessage.verify(message, address, signature_1)));
 console.log('sig2 is valid', (bitcoinMessage.verify(message, address, signature_2)));
 console.log('sig3 is valid', (bitcoinMessage.verify(message, address, signature_3)));
+
+bitcoinMessage.sign()
