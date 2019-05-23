@@ -9,7 +9,7 @@ const dataObject = {
 };
 
 var generateHash = (objectToHash) => {
-    return SHA256(JSON.stringify(objectToHash));
+    return SHA256(JSON.stringify(objectToHash)).toString();
 };
 
 

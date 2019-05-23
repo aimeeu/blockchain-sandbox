@@ -13,6 +13,7 @@
     "block": "^0.2.1",
     "blockexplorer": "^1.0.1",
     "crypto-js": "^3.1.9-1",
+    "express": "^4.17.0",
     "level": "^4.0.0"
   }
 }
