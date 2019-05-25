@@ -2,4 +2,4 @@ node_modules
 chaindata
 *.*~
 .idea
-
+.idea/workspace.xml
